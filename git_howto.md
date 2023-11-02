@@ -30,6 +30,7 @@ git log
 git log --oneline
 ```
 
+Вщзвращение к ветке HEAD:
 ```sh
 git checkout
 ```
