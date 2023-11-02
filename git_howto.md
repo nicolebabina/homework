@@ -34,6 +34,10 @@ git log --oneline
 ```sh
 git checkout
 ```
+Перемещение указателя HEAD:
+```sh
+git reset
+```
 
 Разница между сохраненнымим и нет ветками:
 ```sh
