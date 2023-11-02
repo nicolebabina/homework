@@ -9,7 +9,7 @@ git init
 ```sh
 git status
 ```
-
+Добавить:
 ```sh
 git add
 ```
