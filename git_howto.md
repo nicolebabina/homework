@@ -9,15 +9,18 @@ git init
 ```sh
 git status
 ```
+
 Добавить:
 ```sh
 git add
 ```
+
 Сохранить + комментарий:
 ```sh 
 git commit -m "Message"
 ```
 
+Просмотр всех действий: 
 ```sh
 git log
 ```
