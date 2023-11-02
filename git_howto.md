@@ -30,7 +30,12 @@ git log
 git log --oneline
 ```
 
-Вщзвращение к ветке HEAD:
+Вoзвращение к ветке HEAD:
 ```sh
 git checkout
+```
+
+Разница между сохраненнымим и нет ветками:
+```sh
+git diff
 ```
