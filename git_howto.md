@@ -25,6 +25,7 @@ git commit -m "Message"
 git log
 ```
 
+Просмотр всех действий (короткий вариант):
 ```sh
 git log --oneline
 ```
