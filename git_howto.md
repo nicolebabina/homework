@@ -13,7 +13,7 @@ git status
 ```sh
 git add
 ```
-
+Сохранить + комментарий:
 ```sh 
 git commit -m "Message"
 ```
