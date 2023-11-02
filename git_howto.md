@@ -5,10 +5,27 @@
 git init
 ```
 
-git init
+Отображение статуса:
+```sh
 git status
+```
+
+```sh
 git add
+```
+
+```sh 
 git commit -m "Message"
+```
+
+```sh
 git log
+```
+
+```sh
 git log --oneline
+```
+
+```sh
 git checkout
+```
