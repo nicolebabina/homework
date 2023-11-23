@@ -43,3 +43,38 @@ git reset
 ```sh
 git diff
 ```
+
+Просмотр всех веток
+```sh
+git branch
+```
+
+Переход на другую ветку
+```sh
+git checkout branch_name
+```
+
+Удаление ветки
+```sh
+git branch -d branch_name
+```
+
+Совмещение двух веток
+```sh
+git merge branch_name
+```
+
+Изменение назвиния ветки
+```sh
+git branch new_branch_name
+```
+
+История в виде древа
+```sh
+git log --graph
+```
+
+Очистить terminal
+```sh
+clear
+```
