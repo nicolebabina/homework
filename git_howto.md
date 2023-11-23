@@ -51,22 +51,22 @@ git branch
 
 Переход на другую ветку
 ```sh
-git checkout branch_name
+git checkout <branch_name>
 ```
 
 Удаление ветки
 ```sh
-git branch -d branch_name
+git branch -d <branch_name>
 ```
 
 Совмещение двух веток
 ```sh
-git merge branch_name
+git merge <branch_name>
 ```
 
 Изменение назвиния ветки
 ```sh
-git branch new_branch_name
+git branch new_<branch_name>
 ```
 
 История в виде древа
